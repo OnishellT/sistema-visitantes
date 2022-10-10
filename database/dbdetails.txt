@@ -1,0 +1,24 @@
+
+USERNAME: b0729cdba73546
+
+PASSWORD: d772c3d3
+
+HOST: us-cdbr-east-04.cleardb.com
+
+
+
+Remote Host
+freedb.tech
+
+Port
+3306
+
+Database Name
+freedbtech_sistemavisitantespaiewonsky
+
+Username
+freedbtech_paiewonskyvisitas
+
+Password
+e80cbdfc
+
